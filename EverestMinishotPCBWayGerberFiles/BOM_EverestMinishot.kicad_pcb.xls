@@ -1,4 +1,0 @@
-﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description,KiLib_Generator
-J1,1,Conn_01x03_Pin,PinHeader_1x03_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x03, script generated",connector/pin_header_socket
-SW1,1,Mode Switch,SW_PUSH-12mm,,,,tht,"Push button switch, generic, two pins",
-SW2,1,Camera Shutter,SW_PUSH-12mm,,,,tht,"Push button switch, generic, two pins",
