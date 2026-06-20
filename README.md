@@ -32,5 +32,9 @@ To build, you will need to get the chassis by 3D printing it, order the PCB as i
 # Wiring Diagram/PCB
 <img width="1008" height="746" alt="image" src="https://github.com/user-attachments/assets/2d54d394-a7dd-4f64-bcb9-a1ba5c60b2cf" />
 
+# Photo Taken with Camera (Minishto Simulator)
+<img width="260" height="160" alt="img_20260620-153809" src="https://github.com/user-attachments/assets/e16f40c0-bea5-4770-89f7-ff0cb8364cda" />
+
+
 
 
