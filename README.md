@@ -1,6 +1,8 @@
 # Everest-Minishot
 
-<img width="1410" height="2000" alt="Everest Minishot Zine" src="https://github.com/user-attachments/assets/75e09dbe-09ab-44d8-94c0-429e61b80dc6" />
+<img width="1410" height="2000" alt="Everest Minishot Zine" src="https://github.com/user-attachments/assets/ca383610-ce0a-42bf-8a1b-bc66ffe4be93" />
+
+
 
 # Motivation
 I wanted to make a camera that was accesible and very good quality, everywhere you go without making it too much of a hassle to take a picture in, whether it be in nature, in rain, in the bustling cities, or in a secluded area. Anywhere, anytime, without any friction to composition.
