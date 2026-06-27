@@ -1,0 +1,6 @@
+# ==========================================
+# EVEREST MINISHOT CAMERA CONFIGURATION
+# ==========================================
+# Enable Software I2C for the SH1107 OLED screen
+# This leaves GPIO 3 free for the physical power/wake button.
+dtoverlay=i2c-gpio,i2c_gpio_sda=27,i2c_gpio_scl=22
